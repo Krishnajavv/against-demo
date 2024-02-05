@@ -1,0 +1,213 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+nav .img1{
+    height: 60px;
+    width: 200px;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    position: sticky;
+    top: 0%;
+    width: 100%;
+    height: 70px;
+    
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px 10px;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    position: sticky;
+    top: 0%;
+
+} 
+.card-title{
+   margin-left: 150px;
+   font-weight: bolder;
+   font-size: 70px;
+}
+.card-text{
+    margin-left: 150px;
+    color: aliceblue;
+    font-size: 30px;
+
+}
+span{
+    font-weight: bolder;
+}
+
+button span{
+    font-size: 20px;
+    
+    
+}
+.gr1{
+    height: 200px;
+    width: 100%;
+    background-color: darkgreen;
+    color: aliceblue;
+    font-size: 30px;
+    display: flex;
+    
+}
+.gr1 p{
+    margin-left: 100px;
+    padding: 20px;
+}
+.gr1 .box2{
+   margin-top: 40px;
+   font-size: 30px;
+   padding: 5px;
+} 
+.gr1 .btn{
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.add{
+    width: 100%;
+    height: 320px;
+}
+.fav{
+    color: black;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: 'Protest Strike', sans-serif;
+    text-align: center;
+}
+.card h6{
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Protest Strike', sans-serif;
+}
+button{
+border: none;
+background: darkgreen;
+padding: 12px 30px;
+border-radius: 50px;
+color: white;
+font-weight: bold;
+
+}
+.cntry{
+    background-color: rgb(203, 202, 202);
+}
+.pf1{
+    font-size: 50px;
+    font-family: 'Protest Strike', sans-serif;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+.pf2{
+   font-size: 27px;
+    margin-left: 100px;
+}
+.img1 img{
+border-radius: 50px;
+}
+.region {
+    background-color: rgb(203, 202, 202);
+}
+.news h6{
+    font-size: 45px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Protest Strike', sans-serif;
+
+}
+.news h4{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.news p{
+    font-size: 20px;
+    text-align: center;
+}
+.ip{
+    text-align: center;
+    margin: 5px;
+}
+.news{
+    height: 700px;
+    width: 1100px;
+    background-color: rgb(203, 202, 202); 
+    margin: 30px;
+}
+.post h5{
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Protest Strike', sans-serif;
+
+}
+.post h6{
+    font-size: 40px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Protest Strike', sans-serif;
+
+}
+.post{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(203, 202, 202);
+}
+.tips h5{
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Protest Strike', sans-serif;
+
+}
+.tips h6{
+    font-size: 40px;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Protest Strike', sans-serif;
+
+}
+.tips{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(203, 202, 202);
+}
+footer{
+    background-color: green;
+}
+.card img:hover{
+    
+    -ms-transform:scale(1.2);
+
+    -webkit-transform:scale(1.2);
+     transform:scale(1.2);
+}
+
+
+    
